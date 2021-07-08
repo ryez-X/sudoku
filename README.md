@@ -6,3 +6,5 @@
 ![sudoku1](https://user-images.githubusercontent.com/68471340/124869028-3853e000-dff3-11eb-8632-e3a642c63102.png)
 
 ![sudoku2](https://user-images.githubusercontent.com/68471340/124869036-3a1da380-dff3-11eb-9483-9cd8b8806a74.png)
+
+![sudoku11](https://user-images.githubusercontent.com/68471340/124869189-70f3b980-dff3-11eb-9e3c-4962da2be59c.png)
