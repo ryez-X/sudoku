@@ -3,9 +3,7 @@
 
 提供计时、暂停、重开、提示、删除、不同难度和关卡选择随机生成数独的功能。
 
-![sudoku1](https://user-images.githubusercontent.com/68471340/124869028-3853e000-dff3-11eb-8632-e3a642c63102.png)
+![sudoku1](https://user-images.githubusercontent.com/68471340/124869618-08590c80-dff4-11eb-9e10-857488957f60.png)
 
-![sudoku2](https://user-images.githubusercontent.com/68471340/124869036-3a1da380-dff3-11eb-9483-9cd8b8806a74.png)
+![sudoku2](https://user-images.githubusercontent.com/68471340/124869622-098a3980-dff4-11eb-9944-dadf03fccdef.png)
 
-
-![NOA8 QXXZLU3C`WIT8OW9J2](https://user-images.githubusercontent.com/68471340/124869518-e8c1e400-dff3-11eb-8ca4-0245b3c8bf05.png)
