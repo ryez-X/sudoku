@@ -7,4 +7,5 @@
 
 ![sudoku2](https://user-images.githubusercontent.com/68471340/124869036-3a1da380-dff3-11eb-9483-9cd8b8806a74.png)
 
-![sudoku11](https://user-images.githubusercontent.com/68471340/124869189-70f3b980-dff3-11eb-9e3c-4962da2be59c.png)
+
+![NOA8 QXXZLU3C`WIT8OW9J2](https://user-images.githubusercontent.com/68471340/124869518-e8c1e400-dff3-11eb-8ca4-0245b3c8bf05.png)
